@@ -1,0 +1,33 @@
+{
+  "name": "letter",
+  "version": "0.0.1",
+  "description": "A realtime framework built on socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Penagwin/letter.git"
+  },
+  "keywords": [
+    "letter",
+    "socket",
+    "realtime",
+    "coffeescript"
+  ],
+  "author": "Penagwin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Penagwin/letter/issues"
+  },
+  "homepage": "https://github.com/Penagwin/letter",
+  "dependencies": {
+    "level": "^0.18.0",
+    "object.observe": "^0.2.4",
+    "observed": "^1.1.1",
+    "promise": "^7.0.1",
+    "socket.io": "^1.3.5"
+  },
+  "devDependencies": {}
+}
